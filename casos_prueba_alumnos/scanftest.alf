@@ -1,0 +1,27 @@
+main
+{
+    int x, y, resultado;
+
+	function int suma (int num1; int num2)
+	{   
+        int x;
+        scanf x;
+		return num1+x+num2;
+	}
+
+    x = 1;
+	y = 3;
+	scanf x;
+	resultado = suma (x,y);
+	printf resultado;
+	
+	resultado = suma (x,1);
+	printf resultado;
+	
+	resultado = suma (10,y);
+	printf resultado;
+
+	resultado = suma (3,5);
+	printf resultado;	
+	
+}

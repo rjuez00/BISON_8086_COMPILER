@@ -1,0 +1,5 @@
+by executing "$ make" you already obtain the nasm
+if you want to compile the nasm, you write: make bin/nameofnasm (without nasm extension)
+and to execute you write bin/nameofprogram
+example:
+$ make bin/aritmeticas1 ; bin/aritmeticas1
